@@ -1,0 +1,94 @@
+body {
+  background-image: url('../images/wegmans2.jpg');
+  background-repeat: no-repeat;
+}
+
+.main {
+  background-color: #e55120;
+  opacity: 0.8;
+  display:block;
+  width: 1099px;
+  height: 800px;
+  margin-left: 215px;
+}
+
+.shopping-list {
+  background-image: url('../images/shopping-list.gif');
+  background-repeat: no-repeat;
+  display: block;
+  width: 462px;
+  height: 724px;
+  position: absolute;
+  margin-left: 550px;
+  margin-top: -760px;
+}
+
+#item {
+  width: 300px;
+  height: 25px;
+  margin-top: 125px;
+  margin-left: 55px;
+}
+
+#submit {
+  width: 45px;
+  height: 30px;
+  display: block;
+  background-color: #8ba343;
+  margin-top: -31px;
+  margin-left: 365px;
+}
+
+#list {
+font-family: Maiden Orange, Ariel;
+font-size: 32px;
+margin-top: 55px;
+margin-left: 75px;
+padding-top: 20px;
+
+
+
+}
+
+#strike {
+  text-decoration: line-through;
+}
+
+.uncheck {
+  float: left;
+  width: 30px;
+  height: 60px;
+  background-image: url('../images/green-circle-sm.gif');
+  background-repeat: no-repeat;
+  margin-top: 7px;
+
+}
+
+.check {
+  float: left;
+  width: 30px;
+  height: 60px;
+  background-image: url('../images/green-check-sm.gif');
+  background-repeat: no-repeat;
+  margin-top: 7px;
+  margin-left: -30px;
+  
+}
+
+.remove {
+  float: right;
+  width: 30px;
+  height: 60px;
+  background-image: url('../images/red-check-sm.gif');
+  background-repeat: no-repeat;
+  margin-top: 10px;
+  margin-right: 55px;
+
+}
+
+
+
+
+
+
+
