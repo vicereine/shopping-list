@@ -30,7 +30,7 @@ body {
   margin-left: 55px;
 }
 
-#submit {
+#add {
   width: 45px;
   height: 30px;
   display: block;
@@ -42,6 +42,8 @@ body {
 #list {
 font-family: Maiden Orange, Ariel;
 font-size: 32px;
+height: 1000px;
+width: 1000px;
 margin-top: 55px;
 margin-left: 75px;
 padding-top: 20px;
