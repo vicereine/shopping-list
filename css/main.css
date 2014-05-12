@@ -52,40 +52,20 @@ padding-top: 20px;
 
 }
 
-#strike {
+.strike {
   text-decoration: line-through;
-}
-
-.uncheck {
-  float: left;
-  width: 30px;
-  height: 60px;
-  background-image: url('../images/green-circle-sm.gif');
-  background-repeat: no-repeat;
-  margin-top: 7px;
-
-}
-
-.check {
-  float: left;
-  width: 30px;
-  height: 60px;
-  background-image: url('../images/green-check-sm.gif');
-  background-repeat: no-repeat;
-  margin-top: 7px;
-  margin-left: -30px;
+ 
   
 }
 
-.remove {
-  float: right;
-  width: 30px;
-  height: 60px;
-  background-image: url('../images/red-check-sm.gif');
-  background-repeat: no-repeat;
-  margin-top: 10px;
-  margin-right: 55px;
+.food {
+  color: orange;
 
+}
+
+#erase {
+  float: right;
+  margin-right: 670px;
 }
 
 
